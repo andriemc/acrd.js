@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"lib": ["ESNext"],
+		"target": "ES2018",
+		"module": "CommonJS",
+		"allowArbitraryExtensions": true,
+		"outDir": "dist/",
+		"declaration": true,
+		"declarationMap": true,
+		"moduleResolution": "Node10",
+		"allowSyntheticDefaultImports": true
+	},
+	"include": ["src/"]
+}
